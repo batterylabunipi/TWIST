@@ -1,0 +1,105 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM7805CT
+D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7806ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 6V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7806CT
+D Positive 1A 35V Linear Regulator, Fixed Output 6V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7808ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7808CT
+D Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7809ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7809CT
+D Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7810ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7810CT
+D Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7812ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7812CT
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7815ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7815CT
+D Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7818ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7818CT
+D Positive 1A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7824ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7824CT
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+#End Doc Library

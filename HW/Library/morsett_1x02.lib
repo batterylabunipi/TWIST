@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# morsett_1x02_MALE
+#
+DEF morsett_1x02_MALE J 0 40 Y N 1 F N
+F0 "J" 0 175 50 H V C CNN
+F1 "morsett_1x02_MALE" 0 -200 50 H V C CNN
+F2 "" 0 100 50 H I C CNN
+F3 "" 0 100 50 H I C CNN
+DRAW
+S -100 -75 100 -125 0 1 0 F
+S -100 125 -100 125 0 1 0 N
+S 100 125 -100 75 0 1 0 F
+X 1 1 300 100 200 L 50 50 1 1 P
+X 2 2 300 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

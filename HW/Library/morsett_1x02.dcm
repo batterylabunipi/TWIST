@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP morsett_1x02_MALE
+D Generic Male Connector, single row, 01x02, pin header
+K Connector, Male, Generic
+$ENDCMP
+#
+#End Doc Library

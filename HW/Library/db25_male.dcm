@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB25_MALE
+D 25-pin male D-SUB connector
+K male D-SUB connector
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,64 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Vds, 0.115A Id, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP ADA4051
+D 36V high side current sense amplifier, adjustable gain, bandwidth 200kHz, Vcc=2.7V~36V, current output, unidirectional
+K current sense highside HS shunt monitor amplifier linear
+F http://cds.linear.com/docs/en/datasheet/6106fb.pdf
+$ENDCMP
+#
+$CMP ALIM_JACK
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+$CMP BSS138
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP DB25_MALE
+D 25-pin male D-SUB connector
+K male D-SUB connector
+$ENDCMP
+#
+$CMP DMG3420U
+D Transistor N-JFET (general)
+K njfet n-jfet transistor
+$ENDCMP
+#
+$CMP L78M05AB
+D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LC6061
+D 36V high side current sense amplifier, adjustable gain, bandwidth 200kHz, Vcc=2.7V~36V, current output, unidirectional
+K current sense highside HS shunt monitor amplifier linear
+F http://cds.linear.com/docs/en/datasheet/6106fb.pdf
+$ENDCMP
+#
+$CMP LT6003
+D 36V high side current sense amplifier, adjustable gain, bandwidth 200kHz, Vcc=2.7V~36V, current output, unidirectional
+K current sense highside HS shunt monitor amplifier linear
+F http://cds.linear.com/docs/en/datasheet/6106fb.pdf
+$ENDCMP
+#
+$CMP morsett_1x02_MALE
+D Generic Male Connector, single row, 01x02, pin header
+K Connector, Male, Generic
+$ENDCMP
+#
+$CMP morsett_1x03_MALE
+D Generic Male Connector, single row, 01x02, pin header
+K Connector, Male, Generic
+$ENDCMP
+#
+#End Doc Library
