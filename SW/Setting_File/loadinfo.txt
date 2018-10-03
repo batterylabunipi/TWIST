@@ -1,0 +1,7 @@
+#This file contains the Model No. and the socket information about Load
+
+Model:		LD400P
+
+IPAddress:	192.168.1.100
+
+Port:		9221

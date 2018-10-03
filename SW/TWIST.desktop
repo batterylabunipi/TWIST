@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=TWIST
+Version=1.0
+Icon=/home/pi/Desktop/TWIST_new/Docs/Icon/TWIST.jpg
+Exec=lxterminal -t "TWIST" --working-directory=/home/pi/Desktop/TWIST_new/SW/Sources/Python_sources -e python3.4 ./main.py
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
+
+
+
+
+
+
+ 

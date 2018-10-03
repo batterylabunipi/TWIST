@@ -1,0 +1,21 @@
+#This file is a setting file. Here, you can decide the analog channels where reads the relays' state,
+#the digital pins that control the relays, the conversion information about ADC-Channels. 
+
+
+#ADC-Conversion information
+VoltageRange:				1.25 	[V]
+Nbit:						24
+
+#Channel Identifier association see (user-manual for more information)
+DigitalChargerRelèPin:		1
+AnalogChargerRelèChecker: 	8
+DigitalLoadRelèPin:			3
+AnalogLoadRelèChecker: 		7
+RelèThreshold:				0.5	[V]
+
+#information about temperature sensor
+AnalogTempChannel: 			5
+TempRange: 					0;55	[°C]
+Conversion:					100 	[°C/mV]
+
+

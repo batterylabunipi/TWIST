@@ -1,0 +1,35 @@
+#This is a comment!
+#This file contains the battery test sequence
+#Test command syntax:
+#  type num_step enable_V_I_log log_period[s] test_length[s] test_current[A] limit_voltage[V] current_stop[A]
+#    type is one of: charge, discharge, measure
+#    enable_V_I_log: 0 disable. 1 enable
+#    sampling_time: in seconds > 1 s
+#    test_length[s]: -1 to run indefinitely
+#    test_current[A] is the charge/discharge current in Amps
+#    limit_voltage[V] is
+#    current_stop[A] is
+#
+#  all arguments are mandatory
+
+
+#Rest Period
+measure	1	1	10	 20	3.65	0.1
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
