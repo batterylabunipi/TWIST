@@ -38,10 +38,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
-Title ""
-Date ""
+Title "Relays control circuit"
+Date "2018-02-18"
 Rev ""
-Comp ""
+Comp "Dipartimento di Ingegneria dell'Informazione, Università di Pisa, ITALY"
 Comment1 ""
 Comment2 ""
 Comment3 ""
