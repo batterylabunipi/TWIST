@@ -511,7 +511,7 @@ def readAndAckt(ipA,portN,skPi):
                             print('readAndAckt -> Error num: 019'+ '  ' + 'command row = ' + str(totalStep))
                             sys.exit(1)
         
-                        if (float(infoTest[2]) < 0.5) or (float(infoTest[2]) > 5):                              #Sample time must be between 0.5 s and 5s
+                        if (float(infoTest[2]) < 0.5) or (float(infoTest[2]) > 2):                              #Sample time must be between 0.5 s and 2s
                             print('readAndAckt -> Error num: 017'+ '  ' + 'command row = ' + str(totalStep))
                             sys.exit(1)
                             
